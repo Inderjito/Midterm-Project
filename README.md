@@ -19,7 +19,7 @@
 1. Git
 2. Version Control
 
-## Libraires
+## Libraries
 1. Pandas
 2. numpy
 3. Seaborn
