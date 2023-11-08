@@ -11,3 +11,16 @@
 ## Steps taken to complete this project
 
 1. Downloaded data from [Data.Gov](https://catalog.data.gov/dataset/?organization=city-of-new-york)
+
+## Installation
+1. Git
+2. Version Control
+
+## Libraires
+1. Pandas
+2. numpy
+3. Seaborn
+4. matplotlib
+
+## Database
+Postgres
