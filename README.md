@@ -1,4 +1,4 @@
-# Scalable Database Midter Project
+# Scalable Database Midterm Project
 
 ## Project Objective: Analyzing New York City Data with SQL, Python, and Version Control
 
