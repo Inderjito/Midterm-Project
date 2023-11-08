@@ -1,3 +1,6 @@
+
+![Alt Text](https://cdn.jwplayer.com/v2/media/BBbS6k6I/poster.jpg?width=720)
+
 # Scalable Database Midterm Project
 
 ## Project Objective: Analyzing New York City Data with SQL, Python, and Version Control
