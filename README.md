@@ -22,6 +22,8 @@
 1. Git
 2. Version Control
 3. Visual Studio code
+4. PySpark
+
 
 ## Libraries
 1. Pandas
