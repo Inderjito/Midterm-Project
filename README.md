@@ -3,7 +3,7 @@
 
 # Scalable Database Midterm Project
 
-## Project Objective: Analyzing New York City Data with SQL, Python, and Version Control
+# Project Objective: Analyzing New York City Data with SQL, Python, and Version Control
 
 ##Project Goal
 - The end goal is to uncover patterns and trends that can help law enforcement and policymakers make data-driven decisions and keep New York City residence safety and reduce the crime
